@@ -1,16 +1,8 @@
-# flutter_ui_jank_optimization
+# Flutter Concurency Workout
 
-A new Flutter project.
+Welcome to the repository for the article "Eliminating UI Jank: Flutter Concurrency with Isolate and Compute." In this article, we explore the power of Flutter's concurrency features, specifically Isolates and Compute Functions, to enhance the performance of your Flutter applications and eliminate UI Jank.
 
-## Getting Started
+## Article Link
 
-This project is a starting point for a Flutter application.
+📖 [Read the Article on Medium](https://medium.com/gitconnected/eliminating-ui-jank-flutter-concurrency-with-isolate-and-compute-e9fdb0d5ca36)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
